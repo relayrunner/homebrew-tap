@@ -1,6 +1,7 @@
 # RelayRunner Homebrew tap
 
 ```sh
+brew trust relayrunner/tap   # if Homebrew asks you to trust the tap first
 brew install --cask relayrunner/tap/relayrunner
 ```
 
