@@ -1,6 +1,6 @@
 cask "relayrunner" do
-  version "0.2.1"
-  sha256 "33dd44fb614831cb4d51238975b7ccdce8e19e551dd9eafd922504e3b614033b"
+  version "0.3.0"
+  sha256 "f80cb5ac6ba699fb9a69ef8acb21fa1d16a5f5a401f0d9812ce4641531c1ce64"
 
   url "https://github.com/relayrunner/relayrunner/releases/download/mac-v#{version}/RelayRunner-#{version}.dmg"
   name "RelayRunner"
